@@ -9,6 +9,8 @@
 
 import Foundation
 
+public typealias L = Language
+
 public enum Language {
   case LTR
   case RTL
